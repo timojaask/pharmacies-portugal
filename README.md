@@ -8,7 +8,7 @@ Because most pharmacies are closed on Sundays, and the few online services that 
 
 ## Where does the data come from?
 
-Portuguese national healthcare service [SNS](https://www.sns.gov.pt) is split in seven different regions. Each region decides which pharmacies provide extended service on every day of a year. They publish this information once a year on their own websites. The publication comes in a form of multiple PDF files, format of which changes from region to region.
+Portuguese national healthcare service [SNS](https://www.sns.gov.pt) is split in seven different regions. Each region decides which pharmacies provide extended service on every day of a year. They publish this information once a year on their own websites. The publication comes in a form of multiple PDF files, with one of the regions providing only a link to a zip archive containing the PDFs. The format of PDFs changes from region to region.
 
 List of regions and URLs that link to pharmacy extended service documents:
 - Acores: http://www.azores.gov.pt/Portal/pt/entidades/srs-drs/textoImagem/FVMNSRM.htm
