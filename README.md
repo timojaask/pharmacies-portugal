@@ -1,5 +1,7 @@
 # Pharmacies Portugal
 
+**UPDATE**: _It has been almost two years since I left Portugal, and I haven't touched this idea since. It doesn't really make sense for me to pursue this project any further. I leave this repository online just in case someone might find this little information useful, but it is also possible that there are beter online resources available now than back in 2018 when I started looking into this._
+
 This is an attempt at programmatically gathering information of pharmacy opening times and locations around Portugal, and providing an API that would allow client applications to utilize this data.
 
 ## Why?
